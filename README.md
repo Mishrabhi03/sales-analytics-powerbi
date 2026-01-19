@@ -26,7 +26,7 @@ support data-driven business decisions.
 - High-performing regions should be prioritized for growth
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](screenshot/dashboard_screenshot.png)
 
 ## Notes
 AI insights are mock insights created to demonstrate how analytics outputs can be
